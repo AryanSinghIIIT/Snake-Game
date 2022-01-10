@@ -3,9 +3,9 @@
 Note: You Can only play this app in your PC/Laptop only.
 
 Rules:
-1-You can move the snake using arrow button ← ↑ → ↓
-2- If you collide with the wall or with the snake body then Your match is over.
-3- You can chech the score in the Right top
+(1)-You can move the snake using arrow button ← ↑ → ↓
+(2)- If you collide with the wall or with the snake body then Your match is over.
+(3)- You can chech the score in the Right top
 
 
 Overview of Snake-Game App It's a Simple Application developed using HTML, CSS & JavaScript.
