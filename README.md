@@ -1,6 +1,6 @@
 # Snake-Game
 
-Note: You Can only play this app in your PC/Laptop only.
+Note: You Can only play this app in your PC/Laptop.
 
 Rules:
 (1)-You can move the snake using arrow button ← ↑ → ↓
